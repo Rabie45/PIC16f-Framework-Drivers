@@ -1,18 +1,13 @@
-# PIC16f877a-Framework
- this is my own Framework for PIC16F877A microcontroll 
+# PIC16F-Framework & Driver
+- This is my own Framework for PIC16F877A & PIC16F1828  Microcontroller
  
- this framework consists of 3 parts that you can found in Libs directory:
- 1-configrations:
-have configrations for Ports(porta,b,c,d) in the microcontroll 
+## This framework have multiple tested drivers:
 
-2-util:
-have fuinction used to set a spacific bit or register with 1 or 0
+ - ADC (Analog to digital conversion)
 
-3-port:
-that have the addresses of the ports (see the datasheet)
+ - SPI (Serial prephiral interface)
 
-4-pins:
-this functions used by the framework user to make the port OR pin input or output high or low 
-
+ - Timer
+ 
  
  
