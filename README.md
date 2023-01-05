@@ -9,6 +9,8 @@
  - SPI (Serial prephiral interface)
 
  - Timer
+  
+ - Pin Configration
  
  
  
