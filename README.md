@@ -12,6 +12,9 @@
   
  - Pin Configration
  
+ - UART
+ 
+ - PWM (Pulse Width Modulation)
  
  
 
